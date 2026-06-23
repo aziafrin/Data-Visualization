@@ -5,10 +5,10 @@ https://www.data-to-viz.com/
 <img width="591" height="795" alt="image" src="https://github.com/user-attachments/assets/c024b2a2-6cbd-4684-bbc5-9559b59306cd" />
 
 ## Colour Guide
-A good eye soothing picture always catches our eyes. Choosing the right colour for your plot is important to
+Any good, soothing picture always catches our eyes. Choosing the right colour for your plot is important to:
+- create meaningful visualization of the data
 - easily differentiate different groups or categories
-- - compare different groups
-  - 
+- compare different groups
     
 Find the soothing colour pallete for your visualization from here:
 https://r-graph-gallery.com/color-palette-finder
@@ -16,6 +16,7 @@ https://r-graph-gallery.com/color-palette-finder
 
 
 ## Statistical Test Guide
+
 Find the right statistical test for your data here:
 https://www.scribbr.com/statistics/statistical-tests/
 <img width="1200" height="1424" alt="flowchart-for-choosing-a-statistical-test-993x1024" src="https://github.com/user-attachments/assets/54f50acf-600c-4ced-8213-c8eb4fe2c72a" />
