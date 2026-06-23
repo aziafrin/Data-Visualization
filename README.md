@@ -2,6 +2,9 @@
 ## Graph Guide
 Find the most appropriate graph for your data by just looking at a glance from here:
 https://www.data-to-viz.com/
+
+A snapshot of the resource:
+
 <img width="591" height="795" alt="image" src="https://github.com/user-attachments/assets/c024b2a2-6cbd-4684-bbc5-9559b59306cd" />
 
 ## Colour Guide
@@ -12,13 +15,18 @@ Any good, soothing picture always catches our eyes. Choosing the right colour fo
     
 Find the soothing colour pallete for your visualization from here:
 https://r-graph-gallery.com/color-palette-finder
+
+A snapshot of the resource:
+
 <img width="1161" height="777" alt="image" src="https://github.com/user-attachments/assets/3bfdfc4a-62b2-44f4-b9b4-2164ecf7fa9e" />
 
 
 ## Statistical Test Guide
-
+We know different tests. Still get confused when to use what test.
 Find the right statistical test for your data here:
 https://www.scribbr.com/statistics/statistical-tests/
+A snapshot of the resource: 
+
 <img width="1200" height="1424" alt="flowchart-for-choosing-a-statistical-test-993x1024" src="https://github.com/user-attachments/assets/54f50acf-600c-4ced-8213-c8eb4fe2c72a" />
 
 Find the right statistical test according to your objective here:
