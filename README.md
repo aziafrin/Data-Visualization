@@ -2,9 +2,13 @@
 
 Find the most appropriate graph for your data by just looking at a glance from here:
 https://www.data-to-viz.com/
+<img width="591" height="795" alt="image" src="https://github.com/user-attachments/assets/c024b2a2-6cbd-4684-bbc5-9559b59306cd" />
+
 
 Find the soothing colour pallete for your visualization from here:
 https://r-graph-gallery.com/color-palette-finder
+
+
 
 Find the right statistical test for your data here:
 https://www.scribbr.com/statistics/statistical-tests/
