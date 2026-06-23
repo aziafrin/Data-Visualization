@@ -18,7 +18,7 @@ https://r-graph-gallery.com/color-palette-finder
 
 A snapshot of the resource:
 
-<img width="941" height="777" alt="image" src="https://github.com/user-attachments/assets/3bfdfc4a-62b2-44f4-b9b4-2164ecf7fa9e" />
+<img width="963" height="856" alt="image" src="https://github.com/user-attachments/assets/9bf945ca-8805-4ec1-aee1-c24889a55cc9" />
 <img width="941" height="862" alt="image" src="https://github.com/user-attachments/assets/b3f83ef9-66aa-4662-b921-217418fd3e5c" />
 
 
