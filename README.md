@@ -1,5 +1,5 @@
 # Data-Visualization
-
+## Graph
 Find the most appropriate graph for your data by just looking at a glance from here:
 https://www.data-to-viz.com/
 <img width="591" height="795" alt="image" src="https://github.com/user-attachments/assets/c024b2a2-6cbd-4684-bbc5-9559b59306cd" />
@@ -7,6 +7,7 @@ https://www.data-to-viz.com/
 
 Find the soothing colour pallete for your visualization from here:
 https://r-graph-gallery.com/color-palette-finder
+<img width="1161" height="777" alt="image" src="https://github.com/user-attachments/assets/3bfdfc4a-62b2-44f4-b9b4-2164ecf7fa9e" />
 
 
 
